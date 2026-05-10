@@ -10,3 +10,5 @@ Files contained:
 [Template for categorizing videos (xcls)](%5BCodingTemplate_v2%5DGameTitle_Language(ja%2Cko%2Cen%2Chant%2Chans)_Type(view%2Crel)_Date(yyyymmdd).xlsx)
 
 License: CC-BY-NC-SA 4.0
+
+The development of this toolchain was supported by JSPS KAKENHI Grant Number JP22K18155.
